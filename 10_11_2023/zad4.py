@@ -1,0 +1,1 @@
+print("banan \nczarny bez \nbrzoskwinia")
