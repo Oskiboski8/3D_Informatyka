@@ -1,0 +1,20 @@
+symbol opis i przyklad zastosowania w python
+
++  Dodawanie   	             		    4 + 5 => 9
+- Odejmowanie         	      	            5 - 4 => 1
+* Mnożenie            	                    5 * 4 => 20
+/ Dzielenie  	       			    8 / 2 => 4
+% Reszta z dzielenia   			    5 / 4 => 1
+// Dzielenie całkowite 			    5 // 4 => 1
+** Potęgowanie         			    5 ** 4 => 600
+== Równość             			    4 == 5 => False
+!= Nierówność	       			    5 != 4 => True
+> Większe niż          			    5 > 4 => True
+< Mniejsze niż         			    5 < 4 => False
+>= Mniejsze lub równe 	 		    5 >= 4 => True
+<= Większe lub równe   		            5 <= 4 => False
+and Operator logiczny "i" (komunikacja)     True and False => False
+or  Operator logiczny "lub" (alternatywna)  True or Flase => True
+not Operator logiczny "nie" (negacja)       not True => Flase
+in Operator zawierania w sekwencji          4 in [1, 2, 3, 4] => True
+is Operator identyczności                   a is b => False
